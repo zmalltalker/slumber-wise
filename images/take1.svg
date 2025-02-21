@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#F8F9FF"/>
+  
+  <!-- Title -->
+  <text x="400" y="35" font-family="SF Pro Display, Arial, sans-serif" font-size="20" text-anchor="middle" fill="#3A366E" font-weight="600">SlumberWise Mobile App Key Screens</text>
+  
+  <!-- Phone Mockup 1: Onboarding -->
+  <rect x="50" y="70" width="220" height="440" rx="25" ry="25" fill="#FFFFFF" stroke="#D0D1E1" stroke-width="2"/>
+  <rect x="50" y="70" width="220" height="440" rx="25" ry="25" fill="#3A366E"/>
+  <circle cx="160" cy="260" r="60" fill="#5CBDB9" opacity="0.9"/>
+  <path d="M160 225 L175 265 L145 265 Z" fill="#FFFFFF"/>
+  <path d="M140 235 C140 235, 150 225, 160 225 C170 225, 180 235, 180 235" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+  <path d="M135 245 C135 245, 150 230, 160 230 C170 230, 185 245, 185 245" stroke="#FFFFFF" stroke-width="3" fill="none" opacity="0.6"/>
+  <text x="160" y="190" font-family="SF Pro Display, Arial, sans-serif" font-size="18" text-anchor="middle" fill="#FFFFFF" font-weight="600">Welcome to</text>
+  <text x="160" y="215" font-family="SF Pro Display, Arial, sans-serif" font-size="22" text-anchor="middle" fill="#FFFFFF" font-weight="bold">SlumberWise</text>
+  <text x="160" y="320" font-family="SF Pro Display, Arial, sans-serif" font-size="14" text-anchor="middle" fill="#FFFFFF" font-weight="400">Transform your sleep habits</text>
+  <text x="160" y="340" font-family="SF Pro Display, Arial, sans-serif" font-size="14" text-anchor="middle" fill="#FFFFFF" font-weight="400">with personalized actions</text>
+  
+  <rect x="80" y="390" width="160" height="45" rx="22.5" ry="22.5" fill="#5CBDB9"/>
+  <text x="160" y="420" font-family="SF Pro Display, Arial, sans-serif" font-size="16" text-anchor="middle" fill="#FFFFFF" font-weight="500">Get Started</text>
+  
+  <text x="160" y="470" font-family="SF Pro Display, Arial, sans-serif" font-size="12" text-anchor="middle" fill="#B8B5E1" font-weight="400">Swipe to learn more</text>
+  
+  <circle cx="145" cy="490" r="4" fill="#FFFFFF"/>
+  <circle cx="160" cy="490" r="4" fill="#B8B5E1"/>
+  <circle cx="175" cy="490" r="4" fill="#B8B5E1"/>
+  
+  <text x="160" y="530" font-family="SF Pro Display, Arial, sans-serif" font-size="10" text-anchor="middle" fill="#FFFFFF" font-weight="600">ONBOARDING</text>
+  
+  <!-- Phone Mockup 2: Home with Challenge -->
+  <rect x="290" y="70" width="220" height="440" rx="25" ry="25" fill="#FFFFFF" stroke="#D0D1E1" stroke-width="2"/>
+  
+  <!-- Status Bar -->
+  <rect x="290" y="70" width="220" height="30" rx="25" ry="25" fill="#F8F9FF"/>
+  <text x="310" y="90" font-family="SF Pro Display, Arial, sans-serif" font-size="12" text-anchor="start" fill="#2A2A35" font-weight="500">9:41</text>
+  
+  <!-- Header -->
+  <text x="400" y="120" font-family="SF Pro Display, Arial, sans-serif" font-size="18" text-anchor="middle" fill="#3A366E" font-weight="600">Today's Challenge</text>
+  
+  <!-- Date -->
+  <text x="400" y="145" font-family="SF Pro Display, Arial, sans-serif" font-size="14" text-anchor="middle" fill="#2A2A35" font-weight="400">Wednesday, Feb 21</text>
+  
+  <!-- Challenge Card -->
+  <rect x="305" y="165" width="190" height="230" rx="15" ry="15" fill="#FFFFFF" stroke="#D0D1E1" stroke-width="1"/>
+  <rect x="305" y="165" width="190" height="65" rx="15" ry="15" fill="#3A366E"/>
+  
+  <!-- Sleep Summary -->
+  <text x="325" y="190" font-family="SF Pro Display, Arial, sans-serif" font-size="12" text-anchor="start" fill="#FFFFFF" font-weight="500">SLEEP SUMMARY</text>
+  <text x="325" y="210" font-family="SF Pro Display, Arial, sans-serif" font-size="14" text-anchor="start" fill="#FFFFFF" font-weight="600">6h 42m</text>
+  
+  <!-- Challenge Title -->
+  <text x="325" y="255" font-family="SF Pro Display, Arial, sans-serif" font-size="16" text-anchor="start" fill="#3A366E" font-weight="600">Earlier Bedtime</text>
+  
+  <!-- Challenge Tag -->
+  <rect x="325" y="265" width="80" height="20" rx="10" ry="10" fill="#B8B5E1" opacity="0.5"/>
+  <text x="365" y="280" font-family="SF Pro Display, Arial, sans-serif" font-size="10" text-anchor="middle" fill="#3A366E" font-weight="500">BEDTIME</text>
+  
+  <!-- Challenge Description -->
+  <text x="325" y="305" font-family="SF Pro Display, Arial, sans-serif" font-size="14" text-anchor="start" fill="#2A2A35" font-weight="400">Try going to bed 30 minutes</text>
+  <text x="325" y="325" font-family="SF Pro Display, Arial, sans-serif" font-size="14" text-anchor="start" fill="#2A2A35" font-weight="400">earlier tonight to increase</text>
+  <text x="325" y="345" font-family="SF Pro Display, Arial, sans-serif" font-size="14" text-anchor="start" fill="#2A2A35" font-weight="400">your deep sleep duration.</text>
+  
+  <!-- Accept Button -->
+  <rect x="325" y="365" width="150" height="40" rx="20" ry="20" fill="#5CBDB9"/>
+  <text x="400" y="390" font-family="SF Pro Display, Arial, sans-serif" font-size="14" text-anchor="middle" fill="#FFFFFF" font-weight="500">Challenge Accepted</text>
+  
+  <!-- Navigation Tabs -->
+  <rect x="290" y="455" width="220" height="55" rx="0" ry="0" fill="#FFFFFF" stroke="#D0D1E1" stroke-width="1"/>
+  
+  <circle cx="345" cy="483" r="3" fill="#3A366E"/>
+  <text x="345" y="505" font-family="SF Pro Display, Arial, sans-serif" font-size="10" text-anchor="middle" fill="#3A366E" font-weight="500">HOME</text>
+  
+  <circle cx="400" cy="483" r="3" fill="#D0D1E1"/>
+  <text x="400" y="505" font-family="SF Pro Display, Arial, sans-serif" font-size="10" text-anchor="middle" fill="#2A2A35" font-weight="400">HISTORY</text>
+  
+  <circle cx="455" cy="483" r="3" fill="#D0D1E1"/>
+  <text x="455" y="505" font-family="SF Pro Display, Arial, sans-serif" font-size="10" text-anchor="middle" fill="#2A2A35" font-weight="400">SETTINGS</text>
+  
+  <text x="400" y="530" font-family="SF Pro Display, Arial, sans-serif" font-size="10" text-anchor="middle" fill="#3A366E" font-weight="600">HOME SCREEN</text>
+  
+  <!-- Phone Mockup 3: Completed Challenge -->
+  <rect x="530" y="70" width="220" height="440" rx="25" ry="25" fill="#FFFFFF" stroke="#D0D1E1" stroke-width="2"/>
+  
+  <!-- Status Bar -->
+  <rect x="530" y="70" width="220" height="30" rx="25" ry="25" fill="#F8F9FF"/>
+  <text x="550" y="90" font-family="SF Pro Display, Arial, sans-serif" font-size="12" text-anchor="start" fill="#2A2A35" font-weight="500">9:41</text>
+  
+  <!-- Header -->
+  <text x="640" y="120" font-family="SF Pro Display, Arial, sans-serif" font-size="18" text-anchor="middle" fill="#3A366E" font-weight="600">Challenge History</text>
+  
+  <!-- Filter Pills -->
+  <rect x="550" y="135" width="70" height="25" rx="12.5" ry="12.5" fill="#3A366E"/>
+  <text x="585" y="152" font-family="SF Pro Display, Arial, sans-serif" font-size="11" text-anchor="middle" fill="#FFFFFF" font-weight="500">ALL</text>
+  
+  <rect x="625" y="135" width="70" height="25" rx="12.5" ry="12.5" fill="#FFFFFF" stroke="#D0D1E1" stroke-width="1"/>
+  <text x="660" y="152" font-family="SF Pro Display, Arial, sans-serif" font-size="11" text-anchor="middle" fill="#2A2A35" font-weight="500">COMPLETED</text>
+  
+  <!-- History Cards -->
+  <rect x="545" y="170" width="190" height="75" rx="10" ry="10" fill="#FFFFFF" stroke="#D0D1E1" stroke-width="1"/>
+  <rect x="545" y="170" width="5" height="75" fill="#7ED8B2" rx="2" ry="2"/>
+  <text x="560" y="190" font-family="SF Pro Display, Arial, sans-serif" font-size="12" text-anchor="start" fill="#2A2A35" font-weight="500">FEB 21</text>
+  <text x="560" y="210" font-family="SF Pro Display, Arial, sans-serif" font-size="14" text-anchor="start" fill="#3A366E" font-weight="600">Earlier Bedtime</text>
+  <rect x="560" y="220" width="70" height="16" rx="8" ry="8" fill="#B8B5E1" opacity="0.5"/>
+  <text x="595" y="232" font-family="SF Pro Display, Arial, sans-serif" font-size="9" text-anchor="middle" fill="#3A366E" font-weight="500">BEDTIME</text>
+  <circle cx="720" cy="203" r="10" fill="#7ED8B2"/>
+  <path d="M715 203 L719 207 L725 199" stroke="#FFFFFF" stroke-width="2" fill="none"/>
+  
+  <rect x="545" y="255" width="190" height="75" rx="10" ry="10" fill="#FFFFFF" stroke="#D0D1E1" stroke-width="1"/>
+  <rect x="545" y="255" width="5" height="75" fill="#7ED8B2" rx="2" ry="2"/>
+  <text x="560" y="275" font-family="SF Pro Display, Arial, sans-serif" font-size="12" text-anchor="start" fill="#2A2A35" font-weight="500">FEB 20</text>
+  <text x="560" y="295" font-family="SF Pro Display, Arial, sans-serif" font-size="14" text-anchor="start" fill="#3A366E" font-weight="600">Reduce Screen Time</text>
+  <rect x="560" y="305" width="70" height="16" rx="8" ry="8" fill="#B8B5E1" opacity="0.5"/>
+  <text x="595" y="317" font-family="SF Pro Display, Arial, sans-serif" font-size="9" text-anchor="middle" fill="#3A366E" font-weight="500">EVENING</text>
+  <circle cx="720" cy="288" r="10" fill="#7ED8B2"/>
+  <path d="M715 288 L719 292 L725 284" stroke="#FFFFFF" stroke-width="2" fill="none"/>
+  
+  <rect x="545" y="340" width="190" height="75" rx="10" ry="10" fill="#FFFFFF" stroke="#D0D1E1" stroke-width="1"/>
+  <rect x="545" y="340" width="5" height="75" fill="#FFD485" rx="2" ry="2"/>
+  <text x="560" y="360" font-family="SF Pro Display, Arial, sans-serif" font-size="12" text-anchor="start" fill="#2A2A35" font-weight="500">FEB 19</text>
+  <text x="560" y="380" font-family="SF Pro Display, Arial, sans-serif" font-size="14" text-anchor="start" fill="#3A366E" font-weight="600">Breathing Exercise</text>
+  <rect x="560" y="390" width="70" height="16" rx="8" ry="8" fill="#B8B5E1" opacity="0.5"/>
+  <text x="595" y="402" font-family="SF Pro Display, Arial, sans-serif" font-size="9" text-anchor="middle" fill="#3A366E" font-weight="500">ROUTINE</text>
+  <circle cx="720" cy="373" r="10" fill="#FFD485"/>
+  <text x="720" y="377" font-family="SF Pro Display, Arial, sans-serif" font-size="12" text-anchor="middle" fill="#FFFFFF" font-weight="600">!</text>
+  
+  <!-- Navigation Tabs -->
+  <rect x="530" y="455" width="220" height="55" rx="0" ry="0" fill="#FFFFFF" stroke="#D0D1E1" stroke-width="1"/>
+  
+  <circle cx="585" cy="483" r="3" fill="#D0D1E1"/>
+  <text x="585" y="505" font-family="SF Pro Display, Arial, sans-serif" font-size="10" text-anchor="middle" fill="#2A2A35" font-weight="400">HOME</text>
+  
+  <circle cx="640" cy="483" r="3" fill="#3A366E"/>
+  <text x="640" y="505" font-family="SF Pro Display, Arial, sans-serif" font-size="10" text-anchor="middle" fill="#3A366E" font-weight="500">HISTORY</text>
+  
+  <circle cx="695" cy="483" r="3" fill="#D0D1E1"/>
+  <text x="695" y="505" font-family="SF Pro Display, Arial, sans-serif" font-size="10" text-anchor="middle" fill="#2A2A35" font-weight="400">SETTINGS</text>
+  
+  <text x="640" y="530" font-family="SF Pro Display, Arial, sans-serif" font-size="10" text-anchor="middle" fill="#3A366E" font-weight="600">HISTORY SCREEN</text>
+</svg>
