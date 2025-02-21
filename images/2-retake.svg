@@ -1,0 +1,176 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#F8F9FF"/>
+  
+  <!-- Title -->
+  <text x="400" y="35" font-family="SF Pro Display, -apple-system, BlinkMacSystemFont, sans-serif" font-size="20" text-anchor="middle" fill="#3A366E" font-weight="600">SlumberWise Mobile App Key Screens</text>
+  
+  <!-- Phone Mockup 1: Onboarding -->
+  <rect x="50" y="70" width="220" height="440" rx="45" ry="45" fill="#FFFFFF" stroke="#D0D1E1" stroke-width="2"/>
+  <rect x="50" y="70" width="220" height="30" rx="45" ry="45" fill="#F8F9FF"/>
+  
+  <!-- Status Bar -->
+  <text x="70" y="90" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="12" text-anchor="start" fill="#2A2A35" font-weight="500">12:42</text>
+  
+  <!-- Carrier -->
+  <text x="160" y="90" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="12" text-anchor="middle" fill="#2A2A35" font-weight="400">Carrier</text>
+  
+  <!-- Battery, etc -->
+  <rect x="230" y="83" width="22" height="10" rx="2" ry="2" fill="none" stroke="#2A2A35" stroke-width="1"/>
+  <rect x="232" y="85" width="18" height="6" rx="1" ry="1" fill="#2A2A35"/>
+  
+  <!-- Onboarding Card -->
+  <rect x="65" y="120" width="190" height="350" rx="15" ry="15" fill="#FFFFFF" stroke="#E0E0E5" stroke-width="1"/>
+  
+  <!-- Onboarding Content -->
+  <circle cx="160" cy="200" r="60" fill="#5CBDB9" opacity="0.9"/>
+  <path d="M160 165 L175 205 L145 205 Z" fill="#FFFFFF"/>
+  <path d="M140 175 C140 175, 150 165, 160 165 C170 165, 180 175, 180 175" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+  <path d="M135 185 C135 185, 150 170, 160 170 C170 170, 185 185, 185 185" stroke="#FFFFFF" stroke-width="3" fill="none" opacity="0.6"/>
+  
+  <text x="160" y="150" font-family="SF Pro Display, -apple-system, BlinkMacSystemFont, sans-serif" font-size="18" text-anchor="middle" fill="#3A366E" font-weight="600">Welcome to</text>
+  <text x="160" y="175" font-family="SF Pro Display, -apple-system, BlinkMacSystemFont, sans-serif" font-size="22" text-anchor="middle" fill="#3A366E" font-weight="bold">SlumberWise</text>
+  
+  <text x="160" y="280" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="14" text-anchor="middle" fill="#2A2A35" font-weight="400">Transform your sleep habits</text>
+  <text x="160" y="300" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="14" text-anchor="middle" fill="#2A2A35" font-weight="400">with personalized actions</text>
+  
+  <!-- Continue Button - Apple Style -->
+  <rect x="85" y="380" width="150" height="50" rx="25" ry="25" fill="#5CBDB9"/>
+  <text x="160" y="410" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="16" text-anchor="middle" fill="#FFFFFF" font-weight="600">Continue</text>
+  
+  <text x="160" y="345" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="12" text-anchor="middle" fill="#8A8A8F" font-weight="400">We'll help you improve your sleep</text>
+  <text x="160" y="365" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="12" text-anchor="middle" fill="#8A8A8F" font-weight="400">one small action at a time</text>
+  
+  <!-- Page Dots -->
+  <circle cx="145" cy="435" r="4" fill="#3A366E"/>
+  <circle cx="160" cy="435" r="4" fill="#D0D1E1"/>
+  <circle cx="175" cy="435" r="4" fill="#D0D1E1"/>
+  
+  <text x="160" y="530" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="10" text-anchor="middle" fill="#3A366E" font-weight="600">ONBOARDING</text>
+  
+  <!-- Phone Mockup 2: Home with Challenge -->
+  <rect x="290" y="70" width="220" height="440" rx="45" ry="45" fill="#FFFFFF" stroke="#D0D1E1" stroke-width="2"/>
+  
+  <!-- Status Bar -->
+  <rect x="290" y="70" width="220" height="30" rx="45" ry="45" fill="#F8F9FF"/>
+  <text x="310" y="90" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="12" text-anchor="start" fill="#2A2A35" font-weight="500">12:42</text>
+  
+  <!-- Carrier -->
+  <text x="400" y="90" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="12" text-anchor="middle" fill="#2A2A35" font-weight="400">Carrier</text>
+  
+  <!-- Battery, etc -->
+  <rect x="470" y="83" width="22" height="10" rx="2" ry="2" fill="none" stroke="#2A2A35" stroke-width="1"/>
+  <rect x="472" y="85" width="18" height="6" rx="1" ry="1" fill="#2A2A35"/>
+  
+  <!-- Header -->
+  <text x="310" y="120" font-family="SF Pro Display, -apple-system, BlinkMacSystemFont, sans-serif" font-size="22" text-anchor="start" fill="#1D1D1F" font-weight="600">Today</text>
+  
+  <!-- Date -->
+  <text x="310" y="145" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="16" text-anchor="start" fill="#8A8A8F" font-weight="400">Wednesday, Feb 21</text>
+  
+  <!-- Challenge Card -->
+  <rect x="305" y="165" width="190" height="260" rx="15" ry="15" fill="#FFFFFF" stroke="#E0E0E5" stroke-width="1"/>
+  
+  <!-- Sleep Summary Section -->
+  <rect x="305" y="165" width="190" height="65" rx="15" ry="15" fill="#F2F2F7"/>
+  <text x="325" y="190" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="12" text-anchor="start" fill="#8A8A8F" font-weight="500">SLEEP SUMMARY</text>
+  <text x="325" y="210" font-family="SF Pro Display, -apple-system, BlinkMacSystemFont, sans-serif" font-size="14" text-anchor="start" fill="#1D1D1F" font-weight="600">6h 42m</text>
+  
+  <!-- Challenge Title -->
+  <text x="325" y="255" font-family="SF Pro Display, -apple-system, BlinkMacSystemFont, sans-serif" font-size="17" text-anchor="start" fill="#1D1D1F" font-weight="600">Earlier Bedtime</text>
+  
+  <!-- Challenge Tag - Apple Style Pill -->
+  <rect x="325" y="265" width="80" height="22" rx="11" ry="11" fill="#E6E6EB"/>
+  <text x="365" y="280" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="10" text-anchor="middle" fill="#3A366E" font-weight="500">BEDTIME</text>
+  
+  <!-- Challenge Description -->
+  <text x="325" y="305" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="14" text-anchor="start" fill="#3A3A3C" font-weight="400">Try going to bed 30 minutes</text>
+  <text x="325" y="325" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="14" text-anchor="start" fill="#3A3A3C" font-weight="400">earlier tonight to increase</text>
+  <text x="325" y="345" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="14" text-anchor="start" fill="#3A3A3C" font-weight="400">your deep sleep duration.</text>
+  
+  <!-- Accept Button - Apple Style -->
+  <rect x="325" y="370" width="150" height="40" rx="20" ry="20" fill="#5CBDB9"/>
+  <text x="400" y="395" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="15" text-anchor="middle" fill="#FFFFFF" font-weight="600">Accept Challenge</text>
+  
+  <!-- Navigation Bar - Apple Style -->
+  <rect x="290" y="455" width="220" height="55" rx="0" ry="0" fill="#FFFFFF" stroke="#E0E0E5" stroke-width="1"/>
+  
+  <!-- Tab Icons -->
+  <circle cx="345" cy="482" r="3" fill="#3A366E"/>
+  <text x="345" y="498" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="10" text-anchor="middle" fill="#3A366E" font-weight="500">Today</text>
+  
+  <circle cx="400" cy="482" r="3" fill="#8A8A8F"/>
+  <text x="400" y="498" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="10" text-anchor="middle" fill="#8A8A8F" font-weight="400">History</text>
+  
+  <circle cx="455" cy="482" r="3" fill="#8A8A8F"/>
+  <text x="455" y="498" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="10" text-anchor="middle" fill="#8A8A8F" font-weight="400">Profile</text>
+  
+  <text x="400" y="530" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="10" text-anchor="middle" fill="#3A366E" font-weight="600">HOME SCREEN</text>
+  
+  <!-- Phone Mockup 3: History -->
+  <rect x="530" y="70" width="220" height="440" rx="45" ry="45" fill="#FFFFFF" stroke="#D0D1E1" stroke-width="2"/>
+  
+  <!-- Status Bar -->
+  <rect x="530" y="70" width="220" height="30" rx="45" ry="45" fill="#F8F9FF"/>
+  <text x="550" y="90" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="12" text-anchor="start" fill="#2A2A35" font-weight="500">12:42</text>
+  
+  <!-- Carrier -->
+  <text x="640" y="90" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="12" text-anchor="middle" fill="#2A2A35" font-weight="400">Carrier</text>
+  
+  <!-- Battery, etc -->
+  <rect x="710" y="83" width="22" height="10" rx="2" ry="2" fill="none" stroke="#2A2A35" stroke-width="1"/>
+  <rect x="712" y="85" width="18" height="6" rx="1" ry="1" fill="#2A2A35"/>
+  
+  <!-- Header -->
+  <text x="550" y="120" font-family="SF Pro Display, -apple-system, BlinkMacSystemFont, sans-serif" font-size="22" text-anchor="start" fill="#1D1D1F" font-weight="600">History</text>
+  
+  <!-- Filter Pills - Apple Style -->
+  <rect x="550" y="135" width="70" height="28" rx="14" ry="14" fill="#3A366E"/>
+  <text x="585" y="153" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="12" text-anchor="middle" fill="#FFFFFF" font-weight="500">All</text>
+  
+  <rect x="625" y="135" width="90" height="28" rx="14" ry="14" fill="#F2F2F7"/>
+  <text x="670" y="153" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="12" text-anchor="middle" fill="#3A3A3C" font-weight="500">Completed</text>
+  
+  <!-- History Cards - Apple Style Cards -->
+  <rect x="545" y="175" width="190" height="75" rx="12" ry="12" fill="#FFFFFF" stroke="#E0E0E5" stroke-width="1"/>
+  <rect x="545" y="175" width="5" height="75" rx="2.5" ry="2.5" fill="#34C759"/>
+  <text x="560" y="195" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="12" text-anchor="start" fill="#8A8A8F" font-weight="500">FEB 21</text>
+  <text x="560" y="215" font-family="SF Pro Display, -apple-system, BlinkMacSystemFont, sans-serif" font-size="15" text-anchor="start" fill="#1D1D1F" font-weight="600">Earlier Bedtime</text>
+  <rect x="560" y="225" width="70" height="18" rx="9" ry="9" fill="#E6E6EB"/>
+  <text x="595" y="238" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="9" text-anchor="middle" fill="#3A366E" font-weight="500">BEDTIME</text>
+  <circle cx="720" cy="205" r="12" fill="#34C759"/>
+  <path d="M713 205 L718 210 L727 200" stroke="#FFFFFF" stroke-width="2" fill="none"/>
+  
+  <rect x="545" y="260" width="190" height="75" rx="12" ry="12" fill="#FFFFFF" stroke="#E0E0E5" stroke-width="1"/>
+  <rect x="545" y="260" width="5" height="75" rx="2.5" ry="2.5" fill="#34C759"/>
+  <text x="560" y="280" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="12" text-anchor="start" fill="#8A8A8F" font-weight="500">FEB 20</text>
+  <text x="560" y="300" font-family="SF Pro Display, -apple-system, BlinkMacSystemFont, sans-serif" font-size="15" text-anchor="start" fill="#1D1D1F" font-weight="600">Reduce Screen Time</text>
+  <rect x="560" y="310" width="70" height="18" rx="9" ry="9" fill="#E6E6EB"/>
+  <text x="595" y="323" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="9" text-anchor="middle" fill="#3A366E" font-weight="500">EVENING</text>
+  <circle cx="720" cy="290" r="12" fill="#34C759"/>
+  <path d="M713 290 L718 295 L727 285" stroke="#FFFFFF" stroke-width="2" fill="none"/>
+  
+  <rect x="545" y="345" width="190" height="75" rx="12" ry="12" fill="#FFFFFF" stroke="#E0E0E5" stroke-width="1"/>
+  <rect x="545" y="345" width="5" height="75" rx="2.5" ry="2.5" fill="#FF9500"/>
+  <text x="560" y="365" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="12" text-anchor="start" fill="#8A8A8F" font-weight="500">FEB 19</text>
+  <text x="560" y="385" font-family="SF Pro Display, -apple-system, BlinkMacSystemFont, sans-serif" font-size="15" text-anchor="start" fill="#1D1D1F" font-weight="600">Breathing Exercise</text>
+  <rect x="560" y="395" width="70" height="18" rx="9" ry="9" fill="#E6E6EB"/>
+  <text x="595" y="408" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="9" text-anchor="middle" fill="#3A366E" font-weight="500">ROUTINE</text>
+  <circle cx="720" cy="375" r="12" fill="#FF9500"/>
+  <text x="720" y="379" font-family="SF Pro Display, -apple-system, BlinkMacSystemFont, sans-serif" font-size="14" text-anchor="middle" fill="#FFFFFF" font-weight="600">!</text>
+  
+  <!-- Navigation Bar - Apple Style -->
+  <rect x="530" y="455" width="220" height="55" rx="0" ry="0" fill="#FFFFFF" stroke="#E0E0E5" stroke-width="1"/>
+  
+  <!-- Tab Icons -->
+  <circle cx="585" cy="482" r="3" fill="#8A8A8F"/>
+  <text x="585" y="498" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="10" text-anchor="middle" fill="#8A8A8F" font-weight="400">Today</text>
+  
+  <circle cx="640" cy="482" r="3" fill="#3A366E"/>
+  <text x="640" y="498" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="10" text-anchor="middle" fill="#3A366E" font-weight="500">History</text>
+  
+  <circle cx="695" cy="482" r="3" fill="#8A8A8F"/>
+  <text x="695" y="498" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="10" text-anchor="middle" fill="#8A8A8F" font-weight="400">Profile</text>
+  
+  <text x="640" y="530" font-family="SF Pro Text, -apple-system, BlinkMacSystemFont, sans-serif" font-size="10" text-anchor="middle" fill="#3A366E" font-weight="600">HISTORY SCREEN</text>
+</svg>
